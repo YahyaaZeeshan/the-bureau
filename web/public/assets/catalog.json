@@ -1,0 +1,306 @@
+{
+ "BIN": {
+  "file": "assets/furniture/BIN/BIN.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "BOOKSHELF": {
+  "file": "assets/furniture/BOOKSHELF/BOOKSHELF.png",
+  "w": 32,
+  "h": 16,
+  "fw": 2,
+  "fh": 1,
+  "bg": 0
+ },
+ "CACTUS": {
+  "file": "assets/furniture/CACTUS/CACTUS.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "CLOCK": {
+  "file": "assets/furniture/CLOCK/CLOCK.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 0
+ },
+ "COFFEE": {
+  "file": "assets/furniture/COFFEE/COFFEE.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "COFFEE_TABLE": {
+  "file": "assets/furniture/COFFEE_TABLE/COFFEE_TABLE.png",
+  "w": 32,
+  "h": 32,
+  "fw": 2,
+  "fh": 2,
+  "bg": 0
+ },
+ "CUSHIONED_BENCH": {
+  "file": "assets/furniture/CUSHIONED_BENCH/CUSHIONED_BENCH.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "CUSHIONED_CHAIR_FRONT": {
+  "file": "assets/furniture/CUSHIONED_CHAIR/CUSHIONED_CHAIR_FRONT.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "CUSHIONED_CHAIR_BACK": {
+  "file": "assets/furniture/CUSHIONED_CHAIR/CUSHIONED_CHAIR_BACK.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "CUSHIONED_CHAIR_SIDE": {
+  "file": "assets/furniture/CUSHIONED_CHAIR/CUSHIONED_CHAIR_SIDE.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "DESK_FRONT": {
+  "file": "assets/furniture/DESK/DESK_FRONT.png",
+  "w": 48,
+  "h": 32,
+  "fw": 3,
+  "fh": 2,
+  "bg": 1
+ },
+ "DESK_SIDE": {
+  "file": "assets/furniture/DESK/DESK_SIDE.png",
+  "w": 16,
+  "h": 64,
+  "fw": 1,
+  "fh": 4,
+  "bg": 1
+ },
+ "DOUBLE_BOOKSHELF": {
+  "file": "assets/furniture/DOUBLE_BOOKSHELF/DOUBLE_BOOKSHELF.png",
+  "w": 32,
+  "h": 32,
+  "fw": 2,
+  "fh": 2,
+  "bg": 0
+ },
+ "HANGING_PLANT": {
+  "file": "assets/furniture/HANGING_PLANT/HANGING_PLANT.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 0
+ },
+ "LARGE_PAINTING": {
+  "file": "assets/furniture/LARGE_PAINTING/LARGE_PAINTING.png",
+  "w": 32,
+  "h": 32,
+  "fw": 2,
+  "fh": 2,
+  "bg": 0
+ },
+ "LARGE_PLANT": {
+  "file": "assets/furniture/LARGE_PLANT/LARGE_PLANT.png",
+  "w": 32,
+  "h": 48,
+  "fw": 2,
+  "fh": 3,
+  "bg": 2
+ },
+ "PC_FRONT_ON_1": {
+  "file": "assets/furniture/PC/PC_FRONT_ON_1.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PC_FRONT_ON_2": {
+  "file": "assets/furniture/PC/PC_FRONT_ON_2.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PC_FRONT_ON_3": {
+  "file": "assets/furniture/PC/PC_FRONT_ON_3.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PC_FRONT_OFF": {
+  "file": "assets/furniture/PC/PC_FRONT_OFF.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PC_BACK": {
+  "file": "assets/furniture/PC/PC_BACK.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PC_SIDE": {
+  "file": "assets/furniture/PC/PC_SIDE.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PLANT": {
+  "file": "assets/furniture/PLANT/PLANT.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "PLANT_2": {
+  "file": "assets/furniture/PLANT_2/PLANT_2.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "POT": {
+  "file": "assets/furniture/POT/POT.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "SMALL_PAINTING": {
+  "file": "assets/furniture/SMALL_PAINTING/SMALL_PAINTING.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 0
+ },
+ "SMALL_PAINTING_2": {
+  "file": "assets/furniture/SMALL_PAINTING_2/SMALL_PAINTING_2.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 0
+ },
+ "SMALL_TABLE_FRONT": {
+  "file": "assets/furniture/SMALL_TABLE/SMALL_TABLE_FRONT.png",
+  "w": 32,
+  "h": 32,
+  "fw": 2,
+  "fh": 2,
+  "bg": 1
+ },
+ "SMALL_TABLE_SIDE": {
+  "file": "assets/furniture/SMALL_TABLE/SMALL_TABLE_SIDE.png",
+  "w": 16,
+  "h": 48,
+  "fw": 1,
+  "fh": 3,
+  "bg": 1
+ },
+ "SOFA_FRONT": {
+  "file": "assets/furniture/SOFA/SOFA_FRONT.png",
+  "w": 32,
+  "h": 16,
+  "fw": 2,
+  "fh": 1,
+  "bg": 0
+ },
+ "SOFA_BACK": {
+  "file": "assets/furniture/SOFA/SOFA_BACK.png",
+  "w": 32,
+  "h": 16,
+  "fw": 2,
+  "fh": 1,
+  "bg": 0
+ },
+ "SOFA_SIDE": {
+  "file": "assets/furniture/SOFA/SOFA_SIDE.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 0
+ },
+ "TABLE_FRONT": {
+  "file": "assets/furniture/TABLE_FRONT/TABLE_FRONT.png",
+  "w": 48,
+  "h": 64,
+  "fw": 3,
+  "fh": 4,
+  "bg": 1
+ },
+ "WHITEBOARD": {
+  "file": "assets/furniture/WHITEBOARD/WHITEBOARD.png",
+  "w": 32,
+  "h": 32,
+  "fw": 2,
+  "fh": 2,
+  "bg": 0
+ },
+ "WOODEN_BENCH": {
+  "file": "assets/furniture/WOODEN_BENCH/WOODEN_BENCH.png",
+  "w": 16,
+  "h": 16,
+  "fw": 1,
+  "fh": 1,
+  "bg": 0
+ },
+ "WOODEN_CHAIR_FRONT": {
+  "file": "assets/furniture/WOODEN_CHAIR/WOODEN_CHAIR_FRONT.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "WOODEN_CHAIR_BACK": {
+  "file": "assets/furniture/WOODEN_CHAIR/WOODEN_CHAIR_BACK.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ },
+ "WOODEN_CHAIR_SIDE": {
+  "file": "assets/furniture/WOODEN_CHAIR/WOODEN_CHAIR_SIDE.png",
+  "w": 16,
+  "h": 32,
+  "fw": 1,
+  "fh": 2,
+  "bg": 1
+ }
+}

@@ -1,0 +1,39 @@
+node_modules/
+dist/
+.env
+
+# Runtime data (user-specific, regenerated on first boot)
+data/logs/
+data/memory/
+data/drafts/
+data/workspaces/
+data/personas.json
+data/sessions.json
+data/mimo-sessions.json
+data/settings.json
+data/spotify.json
+data/kb-embeddings.json
+data/sherpa-models/
+data/deliverables/
+data/routines.json
+
+# User's agent docs (private company context) — defaults ship in agent-docs-default/
+data/agent-docs/
+
+# Knowledge base content (user's private docs)
+knowledge-base/*
+!knowledge-base/.gitkeep
+
+# Vendor virtualenvs
+vendor/agent-reach-venv/
+
+# OS
+*.log
+.DS_Store
+Thumbs.db
+
+# Claude / IDE
+.claude/
+opencode.json
+
+.git-old/
