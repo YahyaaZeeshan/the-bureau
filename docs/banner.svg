@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#bg)"/>
+  <!-- Title -->
+  <text x="400" y="85" text-anchor="middle" fill="#e0e0e0" font-family="monospace" font-size="48" font-weight="bold" letter-spacing="8">THE BUREAU</text>
+  <!-- Subtitle -->
+  <text x="400" y="125" text-anchor="middle" fill="#8888aa" font-family="monospace" font-size="16">Your AI agents. Your real tools. One virtual office.</text>
+  <!-- Decorative pixels -->
+  <rect x="60" y="60" width="8" height="8" fill="#4a9eff" opacity="0.6"/>
+  <rect x="72" y="60" width="8" height="8" fill="#4a9eff" opacity="0.4"/>
+  <rect x="60" y="72" width="8" height="8" fill="#4a9eff" opacity="0.3"/>
+  <rect x="720" y="60" width="8" height="8" fill="#ff6b6b" opacity="0.6"/>
+  <rect x="732" y="60" width="8" height="8" fill="#ff6b6b" opacity="0.4"/>
+  <rect x="732" y="72" width="8" height="8" fill="#ff6b6b" opacity="0.3"/>
+  <!-- Agent icons -->
+  <text x="240" y="168" text-anchor="middle" fill="#aaa" font-size="12" font-family="monospace">📋 PM</text>
+  <text x="320" y="168" text-anchor="middle" fill="#aaa" font-size="12" font-family="monospace">🔎 Research</text>
+  <text x="400" y="168" text-anchor="middle" fill="#aaa" font-size="12" font-family="monospace">🛠️ Dev</text>
+  <text x="480" y="168" text-anchor="middle" fill="#aaa" font-size="12" font-family="monospace">✉️ Outreach</text>
+  <text x="560" y="168" text-anchor="middle" fill="#aaa" font-size="12" font-family="monospace">🎧 Assistant</text>
+  <!-- Dots separator -->
+  <circle cx="280" cy="165" r="1.5" fill="#555"/>
+  <circle cx="360" cy="165" r="1.5" fill="#555"/>
+  <circle cx="440" cy="165" r="1.5" fill="#555"/>
+  <circle cx="520" cy="165" r="1.5" fill="#555"/>
+</svg>
